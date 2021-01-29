@@ -16,10 +16,12 @@ Project Catalyst -- Cardano Project
 
 ## Instructions
 
+Check if you have `golang` installed with `go version`. If not, [install an appropriate version of Golang](https://golang.org/doc/install), and check out [A Tour of Go](https://tour.golang.org/welcome/1). The currently recommended version of go for development is 1.15.7.
+
 ### Command Line
 
 `ex: from ~`
 
 ```
-cd git && git clone https://github.com/spf13/cobra
+cd git && git clone https://github.com/orphic-inc/go-orphic-cli && cd go-orphic-cli
 ```
