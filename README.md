@@ -12,3 +12,14 @@ Project Catalyst -- Cardano Project
 ## Tooling
 
 [Cobra](https://github.com/spf13/cobra)
+
+
+## Instructions
+
+### Command Line
+
+`ex: from ~`
+
+```
+cd git && git clone https://github.com/spf13/cobra
+```
