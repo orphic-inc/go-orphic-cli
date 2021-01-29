@@ -18,6 +18,8 @@ Project Catalyst -- Cardano Project
 
 Check if you have `golang` installed with `go version`. If not, [install an appropriate version of Golang](https://golang.org/doc/install), and check out [A Tour of Go](https://tour.golang.org/welcome/1). The currently recommended version of go for development is 1.15.7.
 
+[Installing Golang for Windows](https://github.com/abourget/getting-started-with-golang/blob/master/Getting_Started_for_Windows.md)
+
 ### Command Line
 
 `ex: from ~`
