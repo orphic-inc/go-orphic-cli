@@ -9,6 +9,8 @@ Project Catalyst -- Cardano Project
 
 [Orphic Ruby CLI](https://github.com/orphic-inc/orphic-ruby-cli) - [Orphic Node CLI](https://github.com/orphic-inc/orphic-node-cli)
 
+Should all end up connected to Swift scaffolding + App Store Connect for deploying hubs of CLIs + APIs and their related connectors. [Related](https://developer.apple.com/app-store-connect/api/).
+
 ## Tooling
 
 [Cobra](https://github.com/spf13/cobra)
